@@ -1,0 +1,21 @@
+:root {
+    --them-color: white;
+    --primary-color: #e4409a;
+    --secundary-color: #F7C331;
+    --text-color-inverso: white;
+    --text-color: black;
+    --navbar-shallow-color: #3d3939;
+    --menu-mobile-backgroud-color: #bc52fa; 
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: var(--them-color);
+    color: var(--text-color);
+
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-color);
+}
